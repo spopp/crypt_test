@@ -1,0 +1,14 @@
+*.pyc
+*.so
+*.pyo
+reg_info
+*installed-files.txt
+pip-selfcheck.json
+.cache/
+
+
+# ignore settings.ini
+settings.ini
+
+# ignore the ./setup.sh config backups
+settings.ini_backup_*
